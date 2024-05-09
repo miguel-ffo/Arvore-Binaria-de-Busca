@@ -11,4 +11,6 @@ public class No {
 		this.direita = direita;
 		
 	}
+	
+	//configura a classe no contendo uma variavel da classe Aluno e um no esquerdo e um direito
 }

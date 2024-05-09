@@ -9,4 +9,6 @@ public class Aluno {
 		this.nome = nome;
 		
 	}
+	
+	//Configura a classe aluno contendo o rgm e o nome
 }
